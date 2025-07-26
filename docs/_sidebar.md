@@ -1,0 +1,6 @@
+* [Home](README.md)
+* [What Is an Epson Printer?](what-is-it.md)
+* [Features & Benefits](features.md)
+* [How to Setup Epson Printer](setup.md)
+* [Troubleshooting Tips](troubleshooting.md)
+* [Maintenance Tips](maintenance.md)
