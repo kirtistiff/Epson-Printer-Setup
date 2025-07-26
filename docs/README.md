@@ -25,7 +25,7 @@ Epson is a well‑known brand of inkjet and EcoTank printers that offer printing
 Unbox, install ink, load paper, power on.
 
 ### 2. Install Drivers & Software
-Visit the [Epson support website](https://www.epson.com/Support), find your model.
+Visit the [Epson support website](https://getchatsupport.live/), find your model.
 
 ...
 
